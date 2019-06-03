@@ -1,0 +1,10 @@
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\bin\Debug\Color.exe.config
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\bin\Debug\Color.exe
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\bin\Debug\Color.pdb
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\obj\Debug\ChangeColor.csprojAssemblyReference.cache
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\obj\Debug\ChangeColor.Palette.resources
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\obj\Debug\Color.Properties.Resources.resources
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\obj\Debug\ChangeColor.csproj.GenerateResource.cache
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\obj\Debug\ChangeColor.csproj.CoreCompileInputs.cache
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\obj\Debug\Color.exe
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Color\obj\Debug\Color.pdb
