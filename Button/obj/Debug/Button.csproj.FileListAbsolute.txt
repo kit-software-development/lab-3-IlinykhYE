@@ -1,0 +1,10 @@
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\bin\Debug\Button.exe.config
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\bin\Debug\Button.exe
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\bin\Debug\Button.pdb
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\obj\Debug\Button.csprojAssemblyReference.cache
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\obj\Debug\Button.Main_dashboard.resources
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\obj\Debug\Button.exe
+C:\Users\Yulya_il\Desktop\чат\lab-3-Ikhsanovak-lab-3-ikhsanova\lab-3-Ikhsanovak-lab-3-ikhsanova\Button\obj\Debug\Button.pdb
